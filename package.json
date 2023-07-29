@@ -1,0 +1,23 @@
+{
+  "name": "signalling-server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanafaB18/signalling-server.git"
+  },
+  "author": "Abdul-Raziq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanafaB18/signalling-server/issues"
+  },
+  "homepage": "https://github.com/RanafaB18/signalling-server#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
